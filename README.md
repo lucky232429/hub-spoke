@@ -5,7 +5,7 @@
 4. terraform apply --auto-approve
 5. terraform destroy --auto-approve
 
-# hub-spoke
+# Hub-Spoke Model for AKS Cluster
 
 This repo contians the terraform configuration file which will deploy the following components
 1. aks cluster
