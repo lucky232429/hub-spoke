@@ -1,7 +1,12 @@
+
+1. terraform init
+2. terraform validate
+3. terraform plan
+4. terraform apply --auto-approve
+5. terraform destroy --auto-approve
+
 # hub-spoke
 
-terraform init
-terraform validate
-terraform plan
-terraform apply --auto-approve
-terraform destroy --auto-approve
+This repo contians the terraform configuration file which will deploy the following components
+
+
